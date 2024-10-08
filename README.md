@@ -1,19 +1,20 @@
 # SOPM
 
-Aplicatie mobila de tracking fitness si logging utilizand AI
+Aplicație mobilă de tracking fitness și logging utilizând AI
 
-#0.1.0#
-Introducerea exercitiilor si citirea acetora din baza de date
+## Versiuni
 
-#0.2.0#
-Crearea unui feed in care utilizatori pot share-ui progresul lor
+### 0.1.0
+- Introducerea exercițiilor și citirea acestora din baza de date
 
-#0.3.0#
-Conturarea paginii pentru profilul utilizatorului
+### 0.2.0
+- Crearea unui feed în care utilizatorii pot share-ui progresul lor
 
-#0.4.0#
-Pagina de determinarea a logging-ului
+### 0.3.0
+- Conturarea paginii pentru profilul utilizatorului
 
-#0.5.0#
-Register/Login page
+### 0.4.0
+- Pagina de determinare a logging-ului
 
+### 0.5.0
+- Pagina de înregistrare/autentificare
